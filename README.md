@@ -62,7 +62,7 @@ Je m'intéresse particulièrement aux problématiques liées à :
 - 📊 l'analyse et au reporting ;
 - 🧮 la modélisation et la qualité des données ;
 - 🔄 l'ETL et l'automatisation des traitements ;
-- 🗄️ SQL et les environnements data ;
+- 🗄️  SQL et les environnements data ;
 - 📈 la création de solutions BI adaptées aux besoins métier.
 
 ---
