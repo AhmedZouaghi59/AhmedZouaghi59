@@ -26,9 +26,7 @@ Je développe des projets autour de la préparation des données, de la modélis
 - **ETL / Data Integration**
 - **Snowflake**
 - **Oracle**
-- **BigQuery / GCP**
 - **dbt**
-- **Apache Airflow**
 - **Git / GitHub**
 
 ---
