@@ -68,5 +68,5 @@ Je développe progressivement mon portfolio GitHub afin de présenter des projet
 
 ## 📫 Me contacter
 
-- 💼 **LinkedIn :** www.linkedin.com/in/ahmed-zouaghi-3580b9209
+- 💼 **LinkedIn :** www.linkedin.com/in/zouaghi-ahmed
 - 📧 **Email :** zouaghiahmed56@gmail.com
