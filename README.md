@@ -20,15 +20,6 @@ Je développe des projets autour de la préparation des données, de la modélis
 - **SQL** — extraction, transformation et analyse de données
 - **Modélisation dimensionnelle** — Star Schema, tables de faits et dimensions
 
-### 🛠️ Data & Engineering
-
-- **Python** — pandas, scikit-learn, matplotlib
-- **ETL / Data Integration**
-- **Snowflake**
-- **Oracle**
-- **dbt**
-- **Git / GitHub**
-
 ---
 
 ## 🚀 Projets
