@@ -48,7 +48,7 @@ Le projet couvre :
 
 L'objectif est surtout de montrer ma capacité à **comprendre et construire les différentes étapes d'une chaîne Data**, et pas uniquement la partie visualisation.
 
-👉 **[Voir le projet complet sur GitHub](#)**
+👉 **[Voir le projet complet sur GitHub](https://github.com/AhmedZouaghi59/Ecommerce_Data_Platform_Snowflake_dbt_PowerBi)**
 
 ---
 
