@@ -12,7 +12,7 @@ Je développe des projets autour de la préparation des données, de la modélis
 
 ## 🧠 Compétences
 
-### 🧠 Data & Business Intelligence
+### Data & Business Intelligence
 
 * **Snowflake** — organisation des données, couches `RAW / DWH / SEM`, ingestion et environnement Data
 * **SQL** — ingestion, transformation, contrôle des données et requêtes analytiques
