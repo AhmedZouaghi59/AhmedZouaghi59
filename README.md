@@ -12,13 +12,17 @@ Je développe des projets autour de la préparation des données, de la modélis
 
 ## 🧠 Compétences
 
-### 📊 Data Analysis & BI
+### 🧠 Data & Business Intelligence
 
-- **Power BI** — dashboards, reporting, data visualization
-- **DAX** — KPI, mesures temporelles, comparaisons N-1
-- **Power Query** — nettoyage, transformation et préparation des données
-- **SQL** — extraction, transformation et analyse de données
-- **Modélisation dimensionnelle** — Star Schema, tables de faits et dimensions
+* **Snowflake** — organisation des données, couches `RAW / DWH / SEM`, ingestion et environnement Data
+* **SQL** — ingestion, transformation, contrôle des données et requêtes analytiques
+* **dbt** — transformation ELT, modélisation, gestion des dépendances et Data Quality
+* **Power BI** — dashboards interactifs, reporting et data visualization
+* **DAX** — mesures, indicateurs analytiques et analyses temporelles
+* **Power Query** — préparation et transformation des données
+* **Modélisation dimensionnelle** — Star Schema, tables de faits et dimensions
+* **Git / GitHub** — versioning, organisation et documentation des projets Data
+
 
 ---
 
