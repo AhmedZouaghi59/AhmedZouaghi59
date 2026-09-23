@@ -24,23 +24,31 @@ Je développe des projets autour de la préparation des données, de la modélis
 
 ## 🚀 Projets
 
-### 🛒 E-Commerce Power BI Dashboard
+### 🛒 E-Commerce Data Platform — Snowflake, dbt & Power BI
 
-Analyse de la performance commerciale et de la rentabilité d'une activité e-commerce.
+Projet personnel autour de la construction d'une **chaîne Data de bout en bout**, depuis l'ingestion des données jusqu'à leur analyse dans Power BI.
 
-**Technologies :** Power BI · DAX · Power Query · Data Modeling
+L'objectif est de mettre en place une architecture structurée permettant de séparer clairement **l'ingestion, le stockage, la transformation, la Data Quality et la restitution BI**.
+
+**Technologies :** Snowflake · SQL · dbt · Jinja · Power BI · DAX · Power Query · Git
 
 Le projet couvre :
 
-- préparation et transformation des données ;
-- modélisation en étoile ;
-- création de KPI commerciaux ;
-- analyse de la rentabilité ;
-- comparaison des performances avec N-1 ;
-- création d'un dashboard interactif ;
-- documentation des mesures DAX.
+* configuration d'un environnement **Snowflake** ;
+* ingestion des données dans une couche `RAW` ;
+* modélisation d'un **Data Warehouse** en couches `RAW / DWH / SEM` ;
+* transformations et préparation des données avec **dbt** ;
+* nettoyage et standardisation des données ;
+* mise en place de **tests de Data Quality** ;
+* gestion des dépendances entre modèles avec `source()` et `ref()` ;
+* création d'un modèle analytique en **Star Schema** dans Power BI ;
+* développement des mesures **DAX** ;
+* création d'un dashboard interactif orienté analyse commerciale ;
+* documentation technique de chaque étape du projet.
 
-👉 **[Voir le projet](https://github.com/AhmedZouaghi59/E-Commerce-PowerBi-Dashboard)**
+L'objectif est surtout de montrer ma capacité à **comprendre et construire les différentes étapes d'une chaîne Data**, et pas uniquement la partie visualisation.
+
+👉 **[Voir le projet complet sur GitHub](#)**
 
 ---
 
